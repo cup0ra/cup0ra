@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Siarhey
 
+<hr>
+
 ### Languages and Tools:
 <a href="https://html.spec.whatwg.org/" title="HTML"><img  width="30px" heigth="50px" src ="https://cdn.svgporn.com/logos/html-5.svg"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS"><img  width="30px" heigth="50px" src ="https://cdn.svgporn.com/logos/css-3.svg"></a>
@@ -17,8 +19,10 @@
 <a href="https://editorconfig.org/" title="Editorconfig"><img width="45px" heigth="45px" src="https://cdn.svgporn.com/logos/editorconfig.svg" /></a>
 <a href="https://eslint.org/" title="Eslint"><img width="45px" heigth="45px" src="https://cdn.svgporn.com/logos/eslint.svg" /></a>
 
-<img width="450em" height="200em" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cup0ra&show_icons=true?count_private=true&theme=dark">
-<img width="360em" height="170em" align="right" alt="My Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cup0ra&layout=compact&langs_count=8&theme=dark">
+<hr>
+<img  alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cup0ra&show_icons=true?count_private=true&theme=dark">
+<br>
+<img    alt="My Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cup0ra&layout=compact&langs_count=8&theme=dark">
 
 <!--
 **cup0ra/cup0ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
