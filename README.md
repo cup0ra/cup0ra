@@ -29,7 +29,7 @@ Currently looking for work as a Front-end Developer.
 
 ## Portfolio
 
- <details><summary><img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/javascript.svg">  <strong>Vanilla JS</strong></summary>
+ <details><summary><img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/javascript.svg"> <img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/typescript-icon.svg">  <strong>Vanilla JS and TS</strong></summary>
   
    * **Gem-puzzle** [repository](https://github.com/cup0ra/gem-puzzle) [deploy](https://cup0ra-gem-puzzle.netlify.app/)
    * **Rs-css** [repository](https://github.com/cup0ra/rs-css) [deploy](https://cup0ra-rs-css.netlify.app/)
