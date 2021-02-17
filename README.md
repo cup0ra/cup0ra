@@ -29,7 +29,7 @@ Currently looking for work as a Front-end Developer.
 
 ## Portfolio
 
-  #### <img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/javascript.svg">   Vanilla JS
+ <details><summary><img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/javascript.svg">  <strong>Vanilla JS</strong></summary>
   
    * **Gem-puzzle** [repository](https://github.com/cup0ra/gem-puzzle) [deploy](https://cup0ra-gem-puzzle.netlify.app/)
    * **Rs-css** [repository](https://github.com/cup0ra/rs-css) [deploy](https://cup0ra-rs-css.netlify.app/)
@@ -39,15 +39,17 @@ Currently looking for work as a Front-end Developer.
    * **Virtual-keyboard** [repository](https://github.com/cup0ra/virtual-keyboard) [deploy](https://cup0ra-virtual-keyboard.netlify.app/)
    * **Calculator** [repository](https://github.com/cup0ra/calculator) [deploy](https://cup0ra-calculator.netlify.app/)
    * **Rslang (teamwork)** [repository](https://github.com/cup0ra/rslang) [deploy](https://rslang-team52-iudinaleksei.netlify.app/)
- 
-  #### <img width="15px" heigth="15px" src="https://cdn.svgporn.com/logos/react.svg" />  React
+   
+ </details>
+  <details><summary><img width="15px" heigth="15px" src="https://cdn.svgporn.com/logos/react.svg" />  <strong>React</strong></summary>
+  
   * **Songbird** [repository](https://github.com/cup0ra/songbird) [deploy](https://cup0ra-songbird.netlify.app/)
   * **Covid-dashboard (teamwork)** [repository](https://github.com/cup0ra/covid-dashboard) [deploy](https://cup0ra-covid-dashboard.netlify.app/)
   * **Rsclone-medical-portal (teamwork)**  [repository](https://github.com/cup0ra/rsclone) [deploy](https://rsclone-medical-portal.netlify.app/)
   
-
+  </details>
+  
 ![Siaehei's GitHub stats](https://github-readme-stats.vercel.app/api?username=cup0ra&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cup0ra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
