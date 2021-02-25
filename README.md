@@ -29,7 +29,17 @@ Currently looking for work as a Front-end Developer.
 
 ## Portfolio
 
+<details><summary><img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/html-5.svg"> <img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/css-3.svg">  <strong>HTML/CSS</strong></summary>
+ 
+ * **Shelter** [repository](https://github.com/cup0ra/shelter) [deploy](https://suspicious-knuth-a4514b.netlify.app/pages/main/index.html)
+ * **Webdev** [repository](https://github.com/cup0ra/webdev) [deploy](https://cup0ra-webdev.netlify.app/)
+ * **Singolo** [repository](https://github.com/cup0ra/singolo) [deploy](https://cup0ra.github.io/singolo/)
+ 
+  </details>
+  
  <details><summary><img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/javascript.svg"> <img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/typescript-icon.svg">  <strong>Vanilla JS and TS</strong></summary>
+ 
+
   
    * **Gem-puzzle** [repository](https://github.com/cup0ra/gem-puzzle) [deploy](https://cup0ra-gem-puzzle.netlify.app/)
    * **Rs-css** [repository](https://github.com/cup0ra/rs-css) [deploy](https://cup0ra-rs-css.netlify.app/)
