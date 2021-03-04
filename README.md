@@ -31,7 +31,7 @@ Currently looking for work as a Front-end Developer.
 
 <details><summary><img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/html-5.svg"> <img  width="15px" heigth="15px" src ="https://cdn.svgporn.com/logos/css-3.svg">  <strong>HTML/CSS</strong></summary>
  
- * **Shelter** [repository](https://github.com/cup0ra/shelter) [deploy](https://suspicious-knuth-a4514b.netlify.app/pages/main/index.html)
+ * **Shelter** [repository](https://github.com/cup0ra/shelter) [deploy](https://cup0ra-shelter.netlify.app/pages/main/)
  * **Webdev** [repository](https://github.com/cup0ra/webdev) [deploy](https://cup0ra-webdev.netlify.app/)
  * **Singolo** [repository](https://github.com/cup0ra/singolo) [deploy](https://cup0ra.github.io/singolo/)
  
